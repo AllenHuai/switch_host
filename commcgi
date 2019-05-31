@@ -1,0 +1,4 @@
+# commcgi
+9.69.224.122		vip.video.qq.com	#通用CGI 64
+9.69.224.122		commcgi.cm.com		#通用内网CGI 64
+183.3.235.201 		vip.video.qq.com	#通用CGI HTTPS
